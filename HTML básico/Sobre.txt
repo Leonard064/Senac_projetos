@@ -1,0 +1,3 @@
+Site básico de HTML+CSS, contendo:
+- Javascript (animações,carousel)
+- Google Maps API
